@@ -1,2 +1,6 @@
-# the-ides-of-march.py
-print the ides of march.py
+# cook your dish here
+n=int(input())
+if(n<=14):
+    print("no")
+if(n==15):
+    print("yes")
